@@ -16,6 +16,7 @@
 Agriculture remains vital to Nigeria’s economy but continues to face challenges that limit youth participation and productivity. Among these, limited access to affordable finance stands out as a major constraint for young Nigerians aspiring to enter or expand in the agricultural sector.
 This project investigates the key factors shaping the creditworthiness of young agripreneurs in Nigeria. Through data analysis and visualization in Power BI, it explores how education, financial literacy, asset ownership, and banking access influence credit eligibility. The findings reveal regional and demographic trends that can inform policies and financial strategies aimed at enhancing credit access and promoting youth financial inclusion in agriculture.
 
+<img width="982" height="562" alt="Screenshot 2025-10-17 190125" src="https://github.com/user-attachments/assets/3b4d4b52-6b59-4d38-a769-603c9ab3dfb8" />
 
 
 ### Business Objectives
