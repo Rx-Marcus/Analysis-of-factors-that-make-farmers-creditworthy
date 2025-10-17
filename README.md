@@ -18,7 +18,8 @@ This project investigates the key factors shaping the creditworthiness of young 
 
 <img width="982" height="562" alt="Screenshot 2025-10-17 190125" src="https://github.com/user-attachments/assets/3b4d4b52-6b59-4d38-a769-603c9ab3dfb8" />
 
-![Uploading Screenshot 2025-10-17 190155.png…]()
+<img width="982" height="562" alt="Screenshot 2025-10-17 190155" src="https://github.com/user-attachments/assets/8961cff1-6098-4ff6-a68d-117b4abd3b86" />
+
 
 
 ### Business Objectives
